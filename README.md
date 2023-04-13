@@ -4,4 +4,4 @@
 
 ## 校友会联系方式
 
-![IMG_0679](https://user-images.githubusercontent.com/13344830/231624213-70920803-c5cc-4a81-8765-8c9eb3c62896.JPG)
+![image](https://user-images.githubusercontent.com/13344830/231677488-a5914958-6c42-4fdb-bf64-7fdeefbf96bf.png)
