@@ -6,4 +6,4 @@
 
 ## 校友会联系方式
 
-![image](https://user-images.githubusercontent.com/13344830/231677488-a5914958-6c42-4fdb-bf64-7fdeefbf96bf.png)
+<img src="https://user-images.githubusercontent.com/13344830/231677488-a5914958-6c42-4fdb-bf64-7fdeefbf96bf.png" width="500">
